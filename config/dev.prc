@@ -4,7 +4,7 @@
 
 # Client settings
 window-title Toontown Unknown [PRE-ALPHA]
-server-version sv-1.0.0.0
+server-version dev
 sync-video #f
 want-dev #f
 preload-avatars #t
