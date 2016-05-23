@@ -5,7 +5,7 @@ set /P pass="Password: " || ^
 set user=username
 set pass=password
 set TTR_PLAYCOOKIE=%ttrUsername%
-set TTR_GAMESERVER=127.0.0.1
+set TTR_GAMESERVER=73.146.46.129
 
 set /P PPYTHON_PATH=<PPYTHON_PATH
 
