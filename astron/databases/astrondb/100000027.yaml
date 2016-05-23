@@ -1,0 +1,11 @@
+id: 100000027
+class: Account
+fields:
+  ACCOUNT_ID: "\"TTHREKT\""
+  ADMIN_ACCESS: 507
+  BETA_KEY_QUEST: 0
+  ACCOUNT_AV_SET: "[0, 100000028, 0, 0, 0, 0]"
+  ESTATE_ID: 0
+  ACCOUNT_AV_SET_DEL: "[]"
+  CREATED: "\"Sun Dec 28 13:54:19 2014\""
+  LAST_LOGIN: "\"Sun Dec 28 13:55:34 2014\""

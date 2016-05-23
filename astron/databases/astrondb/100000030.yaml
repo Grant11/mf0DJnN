@@ -1,0 +1,11 @@
+id: 100000030
+class: Account
+fields:
+  ACCOUNT_AV_SET: "[0, 100000032, 0, 0, 0, 0]"
+  ESTATE_ID: 0
+  ACCOUNT_AV_SET_DEL: "[]"
+  CREATED: "\"Sun May 22 19:12:27 2016\""
+  LAST_LOGIN: "\"Sun May 22 19:21:26 2016\""
+  ACCOUNT_ID: "\"nick\""
+  ADMIN_ACCESS: 507
+  BETA_KEY_QUEST: 0
