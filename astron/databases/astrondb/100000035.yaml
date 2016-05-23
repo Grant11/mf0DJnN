@@ -1,11 +1,11 @@
 id: 100000035
 class: DistributedToon
 fields:
-  setName: ("Royal Blue Cat")
+  setName: ("Nick")
   setAccountName: ("")
   setFriendsList: ([])
-  WishName: "\"Nick\""
-  WishNameState: 3
+  WishName: "\"\""
+  WishNameState: 0
   WishNameTimestamp: 1464032879
   setPreviousAccess: (0)
   setWantBetaKeyQuest: (0)
@@ -117,4 +117,4 @@ fields:
   setPinkSlips: (0)
   setNametagStyle: (100)
   setDISLid: (100000033)
-  setLastSeen: (0)
+  setLastSeen: (1464038023)
