@@ -44,7 +44,7 @@ NametagFontNames = ('Simple',
  'Western')
 NametagLabel = ' Nametag'
 UnpaidNameTag = 'Basic'
-ScreenshotPath = 'screenshots/'
+ScreenshotPath = 'userdata/screenshots/'
 GM_NAMES = ('TOON COUNCIL',
  'TOON TROOPER',
  'RESISTANCE RANGER',

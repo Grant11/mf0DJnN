@@ -8,6 +8,4 @@ OTPLocalizer: Running in language: english
 from otp.otpbase.OTPLocalizerEnglish import *
 ToontownStart: Loading default gui sounds
 ToontownStart: serverVersion:  dev
-{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x133C28F0>}
-{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x133C28F0>}
-{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x133C28F0>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17B43530>}
