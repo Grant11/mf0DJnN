@@ -18,4 +18,4 @@ Toontown Unknown is a project founded by Nickdoge, Mr. External, Frank, Jared CS
 - Finally, *TTU is not a public server. It has no intention of releasing to the public, and we can add anything we desire.. Appropriate or not.* 
 
 ====
-~Mgmt
+~Management
