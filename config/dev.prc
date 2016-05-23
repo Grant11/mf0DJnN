@@ -3,7 +3,7 @@
 # as well as deployment/server.prc if necessary.
 
 # Client settings
-window-title Toontown Rewritten [DEV BUILD]
+window-title Toontown Unknown [PRE-ALPHA]
 server-version dev
 sync-video #f
 want-dev #f
@@ -38,7 +38,7 @@ default-model-extension .bam
 want-rpc-server #f
 rpc-server-endpoint http://localhost:8080/
 eventlog-host 127.0.0.1
-want-cheesy-expirations #t
+want-cheesy-expirations #f
 
 
 # DC Files
