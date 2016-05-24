@@ -21,6 +21,8 @@ e.) Frank
 - If testing does not succeed, undo the commit and fix any errors necessary. 
 - Once fixed, rinse and repeat the 3rd step. 
 
+*Note: When you run the batch files, and they make "changes" that need committed. Do NOT discard them, push them to master as the respective update. (e.g "UberDOG Commit #")*
+
 ====
 
 # Rules (Because everything has them) #
