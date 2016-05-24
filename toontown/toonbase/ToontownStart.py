@@ -5,7 +5,7 @@ import os
 if __debug__:
     # __debug__ is only 1 in dev builds; Mirai's builder will set it to 0
     # (and it will, in fact, remove entire if __debug__: sections)
-    loadPrcFile('config/dev.prc')
+    loadPrcFile('config/config_release.prc')
 
 # The VirtualFileSystem, which has already initialized, doesn't see the mount
 # directives in the config(s) yet. We have to force it to load those manually:
@@ -40,8 +40,8 @@ import __builtin__
 try:
     launcher
 except:
-    from toontown.launcher.TTRLauncher import TTRLauncher
-    launcher = TTRLauncher()
+    from toontown.launcher.TempLauncher import TempLauncher
+    launcher = TempLauncher()
     __builtin__.launcher = launcher
 
 pollingDelay = 0.5
