@@ -44,8 +44,8 @@ want-cheesy-expirations #f
 
 # DC Files
 # This is, oddly enough, in *reverse* order of their loading...
-dc-file userdata/dclass/toon.dc
-dc-file userdata/dclass/otp.dc
+dc-file userdata/toon.dc
+dc-file userdata/otp.dc
 
 
 # Beta Modifications
