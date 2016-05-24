@@ -1,4 +1,0 @@
-direct.distributed.ConnectionRepository:618, toontown.ai.ToontownAIRepository:209, toontown.ai.ToontownAIRepository:213, toontown.ai.ToontownAIRepository:133, RuntimeError: Data error unpacking field setAnimState(string, int16/1000, int16) broadcast ram
-Got data (1 bytes):
-0000  07                                               .
-Error detected on byte 0 (0 hex)
