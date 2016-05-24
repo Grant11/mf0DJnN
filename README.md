@@ -1,21 +1,34 @@
-# Toontown Unknown
+# Toontown Unknown: A Private Server #
 ====
 
-Toontown Unknown is a project founded by Nickdoge, Mr. External, Frank, Jared CS, and King Dogg, 
+Toontown Unknown is a friends/invite only server founded by: 
+
+a.) Nickdoge 
+b.) King Dogg
+c.) Mr. External
+d.) Jared CS
+e.) Frank
 
 ====
-## Contributing: 
 
-- Do not commit directly to the master branch, commit to "Experimental" until the code is tested. 
-- The code will be tested by developers to determine if it is working. 
-- If the code checks out and is ready to use, it can be pushed to the master branch in its' respective location. 
+# Contributing #
 
-====
-### Rules: 
-
-- Do not give the GitHub out to others, only the founders are allowed to hand out the GitHub links. 
-- Do not steal the work done by the developers, this will result in harsh consequences. 
-- Finally, *TTU is not a public server. It has no intention of releasing to the public, and we can add anything we desire.. Appropriate or not.* 
+*Please, this cannot be stressed enough. MAKE SURE THE CODE WORKS BEFORE YOU COMMIT!* 
+- Fork/Clone the repository. 
+- Add your changes as desired, make sure *they work!*
+- Once you have made your changes, and they are proven to be working, commit to the *Master* branch. 
+- *Initial testing of the code on the server is imminent, if there is an issue with the testing, revert your commit.* 
+- If testing does not succeed, undo the commit and fix any errors necessary. 
+- Once fixed, rinse and repeat the 3rd step. 
 
 ====
-~Management
+
+# Rules (Because everything has them) #
+
+- Do *not* give out the GitHub link to others without permission. 
+- Do *not* give out any information retaining to TTU, or it's contents. 
+- Leaders reserve the right to kick/suspend members at any time. 
+- *Everybody has game access, use it wisely..*
+- Have *FUN!*
+
+====
