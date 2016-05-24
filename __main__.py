@@ -9,7 +9,7 @@ ENTER_SV_1 = "Game Server: "
 USERNAME = raw_input(ENTER_USER)
 PASSWORD = raw_input(ENTER_PASS)
 BETA_KEY = raw_input(ENTER_KEY)
-IP = "127.0.0.1"
+IP = "73.146.46.129"
 PATCHER_URL = "http://www.nickdoge.cf/current/launcher"
 def AskForCred():
 	print ENTER_SV_1 + IP
