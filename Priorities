@@ -1,0 +1,21 @@
+Priorities (Toontown Unknown)
+====
+Legend:
+
+** = Major Priority
+* = Important Priority
+- = Minor Priority
+====
+** Rewrite ClieentServicesManager/UD 
+** Set up a Virtual Machine for hosting. 
+** Rewrite Parties. 
+** Remove TTR code. 
+** Switch parsers. 
+** Fix up issues with hosting. 
+* Add our own personal look to the game, this includes changing music/art/textures as we see fit. Or, we add new ones. 
+* Create a repository for the current Panda3D used in the source, this way if any changes are made they can be synced. 
+- Make a "Credits.txt" file containing given credit to repective servers/people. 
+- Make a "Setup.txt" file including a detailed explanation of how to set-up and run the source. 
+====
+SUGGESTIONS (Can be added to): 
+-
